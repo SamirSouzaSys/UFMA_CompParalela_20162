@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1471550880 source:f:\daniel\cp\5 periodo\po\grasp\libs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"libs.h"
+
+1471475578 f:\daniel\cp\5 periodo\po\grasp\libs.h
+
+1471569159 source:f:\daniel\cp\5 periodo\po\grasp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"libs.h"
+
+1471661421 source:c:\users\lau filho\documents\ufma\2016.1\po\po-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"libs.h"
+
+1471639994 c:\users\lau filho\documents\ufma\2016.1\po\po-master\libs.h
+
+1471660769 source:c:\users\lau filho\documents\ufma\2016.1\po\po-master\libs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"libs.h"
+
